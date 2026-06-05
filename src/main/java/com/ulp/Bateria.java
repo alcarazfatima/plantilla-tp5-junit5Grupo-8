@@ -26,4 +26,6 @@ public class Bateria {
         return carga; // Debería ser: return metros - 1.5v;
     }
     
+    // cambio en mi local
+    
 }
