@@ -56,4 +56,5 @@
             </plugin>
         </plugins>
     </build>
+    <name>TP5_Grupo15</name>
 </project>
